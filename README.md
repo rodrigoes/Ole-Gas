@@ -82,7 +82,8 @@ Visão geral dos ativos cadastrados:
 * Principais bacias;
 * Principais operadores;
 * Indicadores gerais da base.
-<img width="998" height="557" alt="image" src="https://github.com/user-attachments/assets/dcc10686-5d57-4597-8b31-8efdccbb7331" />
+<img width="998" height="562" alt="image" src="https://github.com/user-attachments/assets/9b50a943-ef71-45c3-950b-ef021fab3590" />
+
 
 ### Operação
 
@@ -96,7 +97,8 @@ Análise da situação operacional dos poços:
 * Comparativo Produzindo x Injetando;
 * Distribuição operacional por bacia;
 * Indicadores relacionados à estratégia de produção.
-<img width="997" height="558" alt="image" src="https://github.com/user-attachments/assets/d4080eab-b499-4718-add0-c7a3dcb869da" />
+<img width="1001" height="562" alt="image" src="https://github.com/user-attachments/assets/2526e93b-f8ac-4b3f-847a-cdc2824eca0c" />
+
 
 
 ### Evolução
@@ -107,7 +109,8 @@ Análise temporal da atividade:
 * Evolução das conclusões após o ano 2000;
 * Análise dinâmica dos últimos cinco anos;
 * Tendências de atividade ao longo do tempo.
-<img width="1001" height="556" alt="image" src="https://github.com/user-attachments/assets/2370af46-cc58-47e4-a0bf-46cfb5c2b819" />
+<img width="992" height="558" alt="image" src="https://github.com/user-attachments/assets/9be81ab2-185e-462c-927b-f0e0ed3ddca1" />
+
 
 ## Análise Exploratória em Python
 
